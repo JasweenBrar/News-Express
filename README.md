@@ -41,9 +41,22 @@ Search for a news article by entering a keyword ;
 
 
 ✔️ Deployment on github, link :
-(https://jasweenbrar.github.io/Tasty-Treats/)
+
 
 ✔️ Our website looks like :
 
 
-![website image](./images/websiteimage.png)
+![website image](./images/img1.png)
+
+
+![website image](./images/img2.png)
+
+
+![website image](./images/img3.png)
+
+
+Search results:
+
+
+![website image](./images/imgsearrch.png)
+
