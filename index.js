@@ -30,7 +30,7 @@ window.onload = function() {
 
 
 generalBtn.addEventListener("click",function(){
-    newsType.innerHTML="<h4>General news</h4>";
+    newsType.innerHTML="<h4>General</h4>";
     fetchGeneralNews();
 });
 
