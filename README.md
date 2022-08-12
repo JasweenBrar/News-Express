@@ -1,7 +1,7 @@
 # News-Express
 
 💠 ~*In this project we build the “News Website”. This website will use news API. The News API is a simple and easy-to-use API that returns JSON metadata for headlines and articles live all over the web right now. This website will show live news to the user, which will be displayed with the help of news API.*
----
+
 
 
 News Sections in the webiste include :
@@ -19,7 +19,7 @@ News Sections in the webiste include :
 Search for a news article by entering a keyword ;
 
 💠 *Search results include thumbnail image, headline, date and link to view the full article.*
----
+
 
 
  A simple news website built using
@@ -48,14 +48,17 @@ Search for a news article by entering a keyword ;
 
 
 ![website image](./images/img1.png)
+
 ---
 
 
 ![website image](./images/img2.png)
+
 ---
 
 
 ![website image](./images/img3.png)
+
 ---
 
 
@@ -63,4 +66,5 @@ Search results:
 
 
 ![website image](./images/imgsearch.png)
+
 ---
