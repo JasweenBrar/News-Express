@@ -42,6 +42,7 @@ Search for a news article by entering a keyword ;
 
 
 ✔️ Deployment on github, link :
+https://jasweenbrar.github.io/News-Express/
 
 
 ✔️ Our website looks like :
